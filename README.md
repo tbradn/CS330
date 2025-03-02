@@ -1,8 +1,6 @@
 # CS330
 CS330 Portfolio
 
-Here's an updated README file that addresses each of your questions:
-
 # 3D OpenGL Fishing Scene Project
 
 ## Reflection on Software Design and Development
